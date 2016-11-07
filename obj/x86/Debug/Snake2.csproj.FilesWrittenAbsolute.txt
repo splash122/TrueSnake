@@ -1,0 +1,5 @@
+/Users/juliarayskaya/Documents/snake2/snake2.git/Snake2/Snake2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/juliarayskaya/Documents/snake2/snake2.git/Snake2/Snake2/bin/Debug/Snake2.exe.mdb
+/Users/juliarayskaya/Documents/snake2/snake2.git/Snake2/Snake2/bin/Debug/Snake2.exe
+/Users/juliarayskaya/Documents/snake2/snake2.git/Snake2/Snake2/obj/x86/Debug/Snake2.exe
+/Users/juliarayskaya/Documents/snake2/snake2.git/Snake2/Snake2/obj/x86/Debug/Snake2.exe.mdb
